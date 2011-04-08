@@ -1,0 +1,17 @@
+.link{
+	font-size: 20px;
+	border: solid red 1px;
+	padding: 10px;
+}
+
+.link:hover{
+	background: red;
+}
+
+
+
+.txt{
+	padding: 5px;
+	font-weight: bold;
+	font-size: 20px;
+}
